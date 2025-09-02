@@ -1,0 +1,23 @@
+{
+    "Input File reading": 1.0,
+    "Avoid using lambda, pandas, csv": 1.0,
+    "Date time": 1.0,
+    "Dynamic Item Type": 1.0,
+    "Dynamic Manufacturer": 1.0,
+    "FullInventory file generated": 1.0,
+    "FullInventory column order": 0.5,
+    "FullInventory sorting": 1.0,
+    "Item Type File generated": 1.0,
+    "Item Type File column order": 1.0,
+    "Item Type File sorting": 1.0,
+    "PastServiceDateInventory file generated": 1.0,
+    "PastServiceDateInventory correctly identified items": 1.0,
+    "PastServiceDateInventory column order": 1.0,
+    "PastServiceDateInventory sorting": 1.0,
+    "DamagedInventory file generated": 1.0,
+    "DamagedInventory correctly identified items": 1.0,
+    "DamagedInventory column order": 1.0,
+    "DamagedInventory sorting": 1.0,
+    "Code commenting": 1.0,
+    "Other": 0.0
+}

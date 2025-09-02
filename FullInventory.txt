@@ -1,0 +1,13 @@
+1167234, Apple, phone, 534, 02/01/2026
+2347800, Apple, laptop, 999, 07/03/2026
+2801972, Apple, laptop, 325, 03/01/2026
+2390112, Dell, laptop, 799, 07/02/2026
+8321228, Dell, laptop, 325, 08/01/2026
+4517938, Dell, laptop, 450, 08/22/2026
+9034210, Dell, tower, 345, 05/27/2026
+7346234, Lenovo, laptop, 239, 09/01/2026, damaged
+1009453, Lenovo, tower, 599, 10/01/2026
+4438201, Lenovo, laptop, 215, 08/15/2026, damaged
+3528219, Lenovo, tower, 425, 06/08/2026
+3001265, Samsung, phone, 1200, 11/01/2026
+3151265, Samsung, phone, 225, 04/22/2026

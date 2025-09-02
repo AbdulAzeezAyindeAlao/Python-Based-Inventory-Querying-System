@@ -1,0 +1,13 @@
+1167234,Apple,phone
+2390112,Dell,laptop
+9034210,Dell,tower
+7346234,Lenovo,laptop,damaged
+3001265,Samsung,phone
+2347800,Apple,laptop
+1009453,Lenovo,tower
+4438201,Lenovo,laptop,damaged
+3151265,Samsung,phone
+8321228,Dell,laptop
+4517938,Dell,laptop
+2801972,Apple,laptop
+3528219,Lenovo,tower
