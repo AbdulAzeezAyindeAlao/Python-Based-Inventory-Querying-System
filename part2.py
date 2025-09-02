@@ -225,8 +225,6 @@ class InventoryManager:
         else:
             print("No such item in inventory")  # Prints an error message if no match is found
 
-# --- MAIN PROGRAM ---
-
 def main():
     manager = InventoryManager()  # Creates an instance of the InventoryManager class
 
