@@ -1,7 +1,7 @@
 import datetime  # Import the datetime module to work with dates and times
 def ReadTheFile(filename): #Function to read the input files
     """Reads a file and returns its content as a list of lists."""
-    file = open(filename, 'r') #Opens the file name and gives it read permissions
+    file = open(filename, 'r') #Opens the file name and gives it read permissions 
     lines = file.readlines() #Read each line of the file
     file.close() #Close the file
     data = [] #Creates a list called data
